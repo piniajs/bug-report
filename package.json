@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "pinia": "^2.0.20",
+    "pinia": "^2.0.21",
     "vue": "^3.2.37"
   },
   "devDependencies": {
