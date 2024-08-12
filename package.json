@@ -7,8 +7,8 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "pinia": "^2.2.0",
-    "vue": "^3.4.35"
+    "pinia": "^2.2.1",
+    "vue": "^3.4.37"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.6.2",
