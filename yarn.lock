@@ -362,10 +362,10 @@ picocolors@^1.1.1:
   resolved "https://registry.yarnpkg.com/picocolors/-/picocolors-1.1.1.tgz#3d321af3eab939b083c8f929a1d12cda81c26b6b"
   integrity sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA==
 
-pinia@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/pinia/-/pinia-3.0.1.tgz#d19f79a04b2b55fd63f78f1395a8c4a714d96941"
-  integrity sha512-WXglsDzztOTH6IfcJ99ltYZin2mY8XZCXujkYWVIJlBjqsP6ST7zw+Aarh63E1cDVYeyUcPCxPHzJpEOmzB6Wg==
+pinia@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/pinia/-/pinia-3.0.2.tgz#0616c2e1b39915f253c7626db3c81b7cdad695da"
+  integrity sha512-sH2JK3wNY809JOeiiURUR0wehJ9/gd9qFN2Y828jCbxEzKEmEt0pzCXwqiSTfuRsK9vQsOflSdnbdBOGrhtn+g==
   dependencies:
     "@vue/devtools-api" "^7.7.2"
 
@@ -431,10 +431,10 @@ to-fast-properties@^2.0.0:
   resolved "https://registry.yarnpkg.com/to-fast-properties/-/to-fast-properties-2.0.0.tgz#dc5e698cbd079265bc73e0377681a4e4e83f616e"
   integrity sha512-/OaKK0xYrs3DmxRYqL/yDc+FxFUVYhDlXMhRmv3z915w2HF1tnN1omB354j8VUGO/hbRzyD6Y3sA7v7GS/ceog==
 
-vite@^4.5.12:
-  version "4.5.12"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-4.5.12.tgz#48f48dbcf789722765e91bc32a99cb66c628eadc"
-  integrity sha512-qrMwavANtSz91nDy3zEiUHMtL09x0mniQsSMvDkNxuCBM1W5vriJ22hEmwTth6DhLSWsZnHBT0yHFAQXt6efGA==
+vite@^4.5.13:
+  version "4.5.13"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-4.5.13.tgz#778534a947112c6c455e89737730fae5d458a294"
+  integrity sha512-Hgp8IF/yZDzKsN1hQWOuQZbrKiaFsbQud+07jJ8h9m9PaHWkpvZ5u55Xw5yYjWRXwRQ4jwFlJvY7T7FUJG9MCA==
   dependencies:
     esbuild "^0.18.10"
     postcss "^8.4.27"
